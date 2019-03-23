@@ -1,0 +1,11 @@
+C:\Users\kar70\source\repos\PingPongArcade\PingPongGame\bin\Debug\netcoreapp2.0\PingPongGame.deps.json
+C:\Users\kar70\source\repos\PingPongArcade\PingPongGame\bin\Debug\netcoreapp2.0\PingPongGame.runtimeconfig.json
+C:\Users\kar70\source\repos\PingPongArcade\PingPongGame\bin\Debug\netcoreapp2.0\PingPongGame.runtimeconfig.dev.json
+C:\Users\kar70\source\repos\PingPongArcade\PingPongGame\bin\Debug\netcoreapp2.0\PingPongGame.dll
+C:\Users\kar70\source\repos\PingPongArcade\PingPongGame\bin\Debug\netcoreapp2.0\PingPongGame.pdb
+C:\Users\kar70\source\repos\PingPongArcade\PingPongGame\obj\Debug\netcoreapp2.0\PingPongGame.csproj.CoreCompileInputs.cache
+C:\Users\kar70\source\repos\PingPongArcade\PingPongGame\obj\Debug\netcoreapp2.0\PingPongGame.AssemblyInfoInputs.cache
+C:\Users\kar70\source\repos\PingPongArcade\PingPongGame\obj\Debug\netcoreapp2.0\PingPongGame.AssemblyInfo.cs
+C:\Users\kar70\source\repos\PingPongArcade\PingPongGame\obj\Debug\netcoreapp2.0\PingPongGame.dll
+C:\Users\kar70\source\repos\PingPongArcade\PingPongGame\obj\Debug\netcoreapp2.0\PingPongGame.pdb
+C:\Users\kar70\source\repos\PingPongArcade\PingPongGame\obj\Debug\netcoreapp2.0\PingPongGame.csprojAssemblyReference.cache
